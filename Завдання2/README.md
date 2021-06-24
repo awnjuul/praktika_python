@@ -6,4 +6,4 @@
 Загальний вигляд калькулятора: 
 
 
-![Screenshot_2](https://user-images.githubusercontent.com/85743649/123151954-b1d4c580-d46c-11eb-86f8-7d5843bb3d49.png)
+![Screenshot_3](https://user-images.githubusercontent.com/85743649/123264215-7be22080-d502-11eb-87a9-c5171cd4068c.png)
